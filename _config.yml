@@ -10,6 +10,8 @@ paginate_path: "news/page/:num"
 rss:
   baseurl: http://shirasete.jp
 
+markdown: kramdown
+
 # Prose settings
 prose:
   rooturl: '_posts'
