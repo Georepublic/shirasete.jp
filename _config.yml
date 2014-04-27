@@ -1,5 +1,6 @@
 name: 知らせて.jp
 baseurl: /
+imgurl: /assets/shirasete
 permalink: /news/:year/:month/:title
 relative_permalinks: false
 excerpt_separator: "<!-- more -->"
